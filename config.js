@@ -85,7 +85,7 @@ const CONFIG = {
 			id: '6',
 			name: 'BlueSky',
 			icon: 'twitter',
-			link: 'https:/app.bsky.social/',
+			link: 'https:/bsky.social/',
 		},
 	],
 
